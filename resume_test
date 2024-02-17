@@ -1,0 +1,982 @@
+<html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <style type="text/css">
+    @import url(https://themes.googleusercontent.com/fonts/css?kit=sDU-RIIs3Wq_4pUcDwWu-05zdwzqyXAFhQ3EpAK6bTA);
+    ul.lst-kix_list_1-0 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_3-0 > li:before {
+        content: "\0025cf   "
+    }
+
+    ul.lst-kix_list_5-7 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_5-8 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_3-1 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_3-2 > li:before {
+        content: "\0025a0   "
+    }
+
+    ul.lst-kix_list_5-5 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_5-6 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_1-3 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_3-5 > li:before {
+        content: "\0025a0   "
+    }
+
+    ul.lst-kix_list_5-0 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_1-4 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_1-1 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_3-4 > li:before {
+        content: "\0025cb   "
+    }
+
+    ul.lst-kix_list_1-2 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_5-3 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_1-7 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_3-3 > li:before {
+        content: "\0025cf   "
+    }
+
+    ul.lst-kix_list_5-4 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_1-8 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_5-1 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_1-5 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_5-2 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_1-6 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_3-8 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_3-6 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_3-7 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_5-0 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_4-8 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_5-3 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_4-7 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_5-2 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_5-1 > li:before {
+        content: "\0025cb   "
+    }
+
+    ul.lst-kix_list_4-8 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_5-7 > li:before {
+        content: "\0025cb   "
+    }
+
+    ul.lst-kix_list_4-6 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_5-6 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_5-8 > li:before {
+        content: "\0025a0   "
+    }
+
+    ul.lst-kix_list_4-7 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_4-0 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_4-1 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_5-4 > li:before {
+        content: "\0025cb   "
+    }
+
+    ul.lst-kix_list_4-4 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_5-5 > li:before {
+        content: "\0025a0   "
+    }
+
+    ul.lst-kix_list_4-5 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_4-2 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_4-3 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_6-1 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_6-3 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_6-0 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_6-4 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_6-2 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_6-8 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_6-5 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_6-7 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_6-6 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_2-6 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_2-7 > li:before {
+        content: "o  "
+    }
+
+    .lst-kix_list_2-4 > li:before {
+        content: "o  "
+    }
+
+    .lst-kix_list_2-5 > li:before {
+        content: "\0025aa   "
+    }
+
+    .lst-kix_list_2-8 > li:before {
+        content: "\0025aa   "
+    }
+
+    ul.lst-kix_list_3-7 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-8 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-1 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-2 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-0 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-5 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-6 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-3 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_3-4 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_4-0 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_4-1 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_4-4 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_4-3 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_4-5 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_4-2 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_4-6 > li:before {
+        content: "\0025cf   "
+    }
+
+    ul.lst-kix_list_6-6 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-7 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-4 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_2-8 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-5 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-8 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_2-2 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_1-0 > li:before {
+        content: "\0025cf   "
+    }
+
+    ul.lst-kix_list_2-3 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_2-0 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_2-1 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-2 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_2-6 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-3 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_1-1 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_1-2 > li:before {
+        content: "\0025a0   "
+    }
+
+    ul.lst-kix_list_2-7 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-0 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_2-4 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_6-1 {
+        list-style-type:none
+    }
+
+    ul.lst-kix_list_2-5 {
+        list-style-type:none
+    }
+
+    .lst-kix_list_1-3 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_1-4 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_1-7 > li:before {
+        content: "\0025cb   "
+    }
+
+    .lst-kix_list_1-5 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_1-6 > li:before {
+        content: "\0025cf   "
+    }
+
+    li.li-bullet-0:before {
+        margin-left: -18pt;
+        white-space: nowrap;
+        display: inline-block;
+        min-width:18pt
+    }
+
+    .lst-kix_list_2-0 > li:before {
+        content: "\0025cf   "
+    }
+
+    .lst-kix_list_2-1 > li:before {
+        content: "o  "
+    }
+
+    .lst-kix_list_1-8 > li:before {
+        content: "\0025a0   "
+    }
+
+    .lst-kix_list_2-2 > li:before {
+        content: "\0025aa   "
+    }
+
+    .lst-kix_list_2-3 > li:before {
+        content: "\0025cf   "
+    }
+
+    ol {
+        margin: 0;
+        padding:0
+    }
+
+    table td, table th {
+        padding:0
+    }
+
+    .c0 {
+        -webkit-text-decoration-skip: none;
+        color: #000000;
+        font-weight: 700;
+        text-decoration: underline;
+        vertical-align: baseline;
+        text-decoration-skip-ink: none;
+        font-size: 12pt;
+        font-family: "Times New Roman";
+        font-style:normal
+    }
+
+    .c1 {
+        margin-left: 36pt;
+        padding-top: 0pt;
+        padding-left: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.0;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    .c11 {
+        color: #000000;
+        font-weight: 400;
+        text-decoration: none;
+        vertical-align: baseline;
+        font-size: 10pt;
+        font-family: "Cambria";
+        font-style:italic
+    }
+
+    .c15 {
+        margin-left: -9pt;
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.0;
+        orphans: 2;
+        widows: 2;
+        text-align:right
+    }
+
+    .c3 {
+        color: #000000;
+        font-weight: 400;
+        text-decoration: none;
+        vertical-align: baseline;
+        font-size: 12pt;
+        font-family: "Times New Roman";
+        font-style:normal
+    }
+
+    .c2 {
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.0;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    .c13 {
+        text-decoration-skip-ink: none;
+        font-family: "Times New Roman";
+        -webkit-text-decoration-skip: none;
+        font-weight: 700;
+        text-decoration:underline
+    }
+
+    .c6 {
+        color: #000000;
+        text-decoration: none;
+        vertical-align: baseline;
+        font-style:normal
+    }
+
+    .c17 {
+        color: #000000;
+        text-decoration: none;
+        vertical-align:baseline
+    }
+
+    .c4 {
+        font-size: 10pt;
+        font-family: "Times New Roman";
+        font-weight:400
+    }
+
+    .c7 {
+        font-weight: 700;
+        font-size: 10pt;
+        font-family: "Times New Roman"
+    }
+
+    .c19 {
+        background-color: #ffffff;
+        max-width: 468pt;
+        padding:72pt 72pt 72pt 72pt
+    }
+
+    .c5 {
+        font-size: 24pt;
+        font-family: "Times New Roman";
+        font-weight:400
+    }
+
+    .c21 {
+        font-weight: 400;
+        font-size: 12pt;
+        font-family: "Cambria"
+    }
+
+    .c9 {
+        font-size: 14pt;
+        font-family: "Times New Roman";
+        font-weight:700
+    }
+
+    .c10 {
+        font-weight: 400;
+        font-size: 14pt;
+        font-family: "Times New Roman"
+    }
+
+    .c12 {
+        padding: 0;
+        margin:0
+    }
+
+    .c18 {
+        margin-left: -9pt;
+        margin-right:-18.3pt
+    }
+
+    .c16 {
+        font-style:italic
+    }
+
+    .c20 {
+        margin-left:36pt
+    }
+
+    .c8 {
+        height:12pt
+    }
+
+    .c14 {
+        margin-right:-9pt
+    }
+
+    .c22 {
+        text-indent:36pt
+    }
+
+    .title {
+        padding-top: 24pt;
+        color: #000000;
+        font-weight: 700;
+        font-size: 36pt;
+        padding-bottom: 6pt;
+        font-family: "Cambria";
+        line-height: 1.0;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    .subtitle {
+        padding-top: 18pt;
+        color: #666666;
+        font-size: 24pt;
+        padding-bottom: 4pt;
+        font-family: "Georgia";
+        line-height: 1.0;
+        page-break-after: avoid;
+        font-style: italic;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    li {
+        color: #000000;
+        font-size: 12pt;
+        font-family: "Cambria"
+    }
+
+    p {
+        margin: 0;
+        color: #000000;
+        font-size: 12pt;
+        font-family: "Cambria"
+    }
+
+    h1 {
+        padding-top: 24pt;
+        color: #000000;
+        font-weight: 700;
+        font-size: 24pt;
+        padding-bottom: 6pt;
+        font-family: "Cambria";
+        line-height: 1.0;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    h2 {
+        padding-top: 18pt;
+        color: #000000;
+        font-weight: 700;
+        font-size: 18pt;
+        padding-bottom: 4pt;
+        font-family: "Cambria";
+        line-height: 1.0;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    h3 {
+        padding-top: 14pt;
+        color: #000000;
+        font-weight: 700;
+        font-size: 14pt;
+        padding-bottom: 4pt;
+        font-family: "Cambria";
+        line-height: 1.0;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    h4 {
+        padding-top: 12pt;
+        color: #000000;
+        font-weight: 700;
+        font-size: 12pt;
+        padding-bottom: 2pt;
+        font-family: "Cambria";
+        line-height: 1.0;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    h5 {
+        padding-top: 11pt;
+        color: #000000;
+        font-weight: 700;
+        font-size: 11pt;
+        padding-bottom: 2pt;
+        font-family: "Cambria";
+        line-height: 1.0;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align:left
+    }
+
+    h6 {
+        padding-top: 10pt;
+        color: #000000;
+        font-weight: 700;
+        font-size: 10pt;
+        padding-bottom: 2pt;
+        font-family: "Cambria";
+        line-height: 1.0;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+    </style>
+</head>
+<body class="c19 doc-content">
+    <p class="c2 c14">
+        <span class="c3">robertsonchris019@gmail.com</span>
+    </p>
+    <p class="c2 c14">
+        <span class="c3">973-255-6993&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </p>
+    <p class="c2 c18">
+        <span class="c5">Chris Robertson</span>
+        <span class="c3">&nbsp; &nbsp;</span>
+    </p>
+    <p class="c15">
+        <span class="c3">278 First Avenue</span>
+    </p>
+    <p class="c15">
+        <span class="c3">New York, NY</span>
+    </p>
+    <hr>
+    <p class="c2 c8">
+        <span class="c0"></span>
+    </p>
+    <p class="c2 c20 c22">
+        <span class="c6 c4">A competitive and creative mathematical mind, working to maximize value from data</span>
+    </p>
+    <hr>
+    <p class="c2 c8">
+        <span class="c0"></span>
+    </p>
+    <p class="c2">
+        <span class="c13">EXPERTISE</span>
+    </p>
+    <ul class="c12 lst-kix_list_5-0 start">
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Generative AI &nbsp;(2+ years)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Python (7+ years)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">R (4+ years)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">SQL (4+ years)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Tableau (4+ years)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Databricks (5+ years)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Writing (150+ reports)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Artificial Intelligence Engineering</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Pandas/Numpy</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Regression Analysis</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Neural Networks</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Convolutional Neural Networks</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Random forests</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Cross-validation</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Support Vector machines</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Co-variance plots</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">KNN regression</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Time-Series Forecasting</span>
+        </li>
+    </ul>
+    <hr>
+    <p class="c2 c8">
+        <span class="c0"></span>
+    </p>
+    <p class="c2">
+        <span class="c13">WORK EXPERIENCE</span>
+    </p>
+    <p class="c2">
+        <span class="c7">Datavations - Sr. Insights Analyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span class="c4">October 2023-Present</span>
+    </p>
+    <ul class="c12 lst-kix_list_4-0 start">
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Used knowledge of data science and machine learning to perform advanced analytics for top clients </span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Improved production code in various areas of the data pipeline</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Leveraged NLP to extract insights from product names, descriptions, attributes, and company-specific data dictionaries</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4 c6">Analyzed point of sale data to reconcile against proprietary company data and evaluate model performance</span>
+        </li>
+    </ul>
+    <p class="c2 c8">
+        <span class="c6 c7"></span>
+    </p>
+    <p class="c2">
+        <span class="c7">Cl&lt;SS &nbsp;- Founder &amp; CEO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span class="c6 c4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar 2021- October 2023</span>
+    </p>
+    <ul class="c12 lst-kix_list_4-0">
+        <li class="c1 li-bullet-0">
+            <span class="c4">Founded a social media company; Built front-end and back-end of company website</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Built data pipelines for automated ingestion, processing, organization, ranking and presentation </span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Built API connections to leading 3rd party softwares for enhanced tracking, data processing, and statistical analysis</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Developed proprietary ranking algorithms for content organization</span>
+        </li>
+    </ul>
+    <p class="c2 c8">
+        <span class="c6 c4"></span>
+    </p>
+    <p class="c2">
+        <span class="c7">Jefferies (M Science) - Data Scientist/Investment Research Associate</span>
+        <span class="c4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span class="c7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span class="c4">June 2019-March 2021</span>
+    </p>
+    <ul class="c12 lst-kix_list_1-0 start">
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Forecasted Revenue and SSS for 9 publicly traded companies, and derived insights on digital/delivery share of sales, geography and retention analyses, menu mix, among other analyses (using python and R, primarily)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Generated insights using credit card data, email receipt data, weather data, web-scraped bot data, + more</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Initiated coverage on 3 separate publicly traded companies (WING, SHAK, QSR) and P2P ride-sharing sector</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Covered industry-wide restaurant trends for 60+ names on a weekly and monthly basis</span>
+        </li>
+    </ul>
+    <p class="c2 c8 c20">
+        <span class="c6 c4"></span>
+    </p>
+    <p class="c2">
+        <span class="c7">PTC </span>
+        <span class="c4 c16">- </span>
+        <span class="c7">Corporate Development Analyst / Corporate Strategy Analyst</span>
+        <span class="c4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 2016 - July 2018</span>
+    </p>
+    <ul class="c12 lst-kix_list_2-0 start">
+        <li class="c1 li-bullet-0">
+            <span class="c4">Generated and maintained M&amp;A leads (Augmented Reality and 3D printing)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Aided in the due diligence process for multi-million dollar acquisitions</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Worked on market/opportunity sizing and pricing projects for IoT and AR products </span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Created an internal perspective paper on the potential impact of blockchain technology</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Built a blockchain proof of concept product, utilizing the hyperledger composer playground</span>
+        </li>
+    </ul>
+    <hr>
+    <p class="c2 c8">
+        <span class="c0"></span>
+    </p>
+    <p class="c2">
+        <span class="c13">EDUCATION</span>
+        <span class="c9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+    </p>
+    <p class="c2">
+        <span class="c7">Massachusetts Institute of Technology; </span>
+        <span class="c6 c4">Applied Data Science Program (12 week course)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June 2023</span>
+    </p>
+    <ul class="c12 lst-kix_list_3-0 start">
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Python, Statistics, Data Analysis &amp; Visualization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Machine Learning, Deep Learning, Recommendation Systems</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c4">Generative Artificial Intelligence</span>
+        </li>
+    </ul>
+    <p class="c2">
+        <span class="c7">Boston College; &nbsp;</span>
+        <span class="c4">Bachelor of Science, Mathematics, Economics Minor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span class="c4 c16">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span class="c6 c4">May 2016</span>
+    </p>
+    <ul class="c12 lst-kix_list_6-0 start">
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Gradient Descent &amp; Multivariable optimization problems (Multivariable Calculus, Advanced Algebra)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Back-Propagation, Time-Series Analysis (Differential, Partial Differential Equations, Waves &amp; Vibrations)</span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Statistical Analysis (Statistics, Probability, Econometrics, Sports Econometrics, Big Data (using python)) </span>
+        </li>
+        <li class="c1 li-bullet-0">
+            <span class="c6 c4">Other (Financial Accounting, Micro &amp; macroeconomics (+ associated theory courses), computer science (python))</span>
+        </li>
+    </ul>
+    <hr>
+    <p class="c2 c8">
+        <span class="c0"></span>
+    </p>
+    <p class="c2">
+        <span class="c0">Other Sample Projects</span>
+    </p>
+    <p class="c2">
+        <span class="c6 c4">Boston College- Analysis of US housing and wage data (econometrics); &nbsp;balls/strikes data (sports econometrics)</span>
+    </p>
+    <p class="c2">
+        <span class="c6 c4">Kaggle- S&amp;P 500 data to predict stock movements; MNIST Database for Handwritten Digit Recognition, + more</span>
+    </p>
+    <p class="c2">
+        <span class="c6 c4">MIT -Built a song recommendation system using Echo&rsquo;s Million Song Dataset</span>
+    </p>
+    <div>
+        <p class="c2 c8">
+            <span class="c6 c21"></span>
+        </p>
+    </div>
+</body>
+</html>
