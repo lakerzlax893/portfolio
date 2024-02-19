@@ -1,16 +1,14 @@
-// Function to fetch and update calendar data
-function refreshCalendarData() {
-    // Make API request to fetch calendar data
-    fetch('your-google-calendar-api-endpoint')
-        .then(response => response.json())
-        .then(data => {
-            // Update calendar data on the webpage
-            document.getElementById('calendarData').innerHTML = JSON.stringify(data);
-        })
-        .catch(error => {
-            console.error('Error fetching calendar data:', error);
-        });
-}
+document.addEventListener("DOMContentLoaded", function() {
+    // Function to refresh calendar by reloading the iframe
+    function refreshCalendar() {
+        // Reload the iframe containing the Google Calendar
+        var iframe = document.querySelector("#calendarData iframe");
+        iframe.src = iframe.src; // Refresh the iframe by setting its src attribute again
+    }
 
-// Add event listener to the refresh button
-document.getElementById('refreshButton').addEventListener('click', refreshCalendarData);
+    // Event listener for the refresh button
+    var refreshButton = document.getElementById("refreshButton");
+    refreshButton.addEventListener("click", function() {
+        refreshCalendar(); // Call the refreshCalendar function when the button is clicked
+    });
+});
