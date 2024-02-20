@@ -20,3 +20,12 @@ run = client.beta.threads.runs.create(
   assistant_id=assistant.id,
   instructions="Please address the user as Jane Doe. The user has a premium account."
 )
+
+run = client.beta.threads.runs.retrieve(
+  thread_id=thread.id,
+  run_id=run.id
+)
+
+messages = client.beta.threads.messages.list(
+  thread_id=thread.id
+)
