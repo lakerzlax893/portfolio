@@ -20,7 +20,7 @@ function createAssistant() {
         url: 'YOUR_OPENAI_API_ENDPOINT', // Replace with the endpoint for creating the assistant
         type: 'POST',
         beforeSend: function(xhr) {
-            xhr.setRequestHeader('Authorization', 'Bearer YOUR_OPENAI_API_KEY'); // Replace with your OpenAI API key
+            xhr.setRequestHeader('Authorization', 'Bearer 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'); // Replace with your OpenAI API key
         },
         contentType: 'application/json',
         data: JSON.stringify({
@@ -46,7 +46,7 @@ function createThread(assistantId) {
         url: 'YOUR_OPENAI_API_ENDPOINT', // Replace with the endpoint for creating a thread
         type: 'POST',
         beforeSend: function(xhr) {
-            xhr.setRequestHeader('Authorization', 'Bearer YOUR_OPENAI_API_KEY'); // Replace with your OpenAI API key
+            xhr.setRequestHeader('Authorization', 'Bearer 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'); // Replace with your OpenAI API key
         },
         contentType: 'application/json',
         data: JSON.stringify({
@@ -70,7 +70,7 @@ function addMessageToThread(threadId) {
         url: 'YOUR_OPENAI_API_ENDPOINT', // Replace with the endpoint for adding a message
         type: 'POST',
         beforeSend: function(xhr) {
-            xhr.setRequestHeader('Authorization', 'Bearer YOUR_OPENAI_API_KEY'); // Replace with your OpenAI API key
+            xhr.setRequestHeader('Authorization', 'Bearer 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'); // Replace with your OpenAI API key
         },
         contentType: 'application/json',
         data: JSON.stringify({
