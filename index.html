@@ -992,19 +992,33 @@
     </div>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            // Function to refresh calendar by reloading the iframe
-            function refreshCalendar() {
-                // Reload the iframe containing the Google Calendar
-                var iframe = document.querySelector("#calendarData iframe");
-                iframe.src = iframe.src; // Refresh the iframe by setting its src attribute again
-            }
+      // Function to refresh calendar by reloading the iframe
+      function refreshCalendar() {
+          // Reload the iframe containing the Google Calendar
+          var iframe = document.querySelector("iframe");
+          iframe.src = iframe.src; // Refresh the iframe by setting its src attribute again
+      }
 
-            // Event listener for the refresh button
-            var refreshButton = document.getElementById("refreshButton");
-            refreshButton.addEventListener("click", function() {
-                refreshCalendar(); // Call the refreshCalendar function when the button is clicked
-            });
-        });
-    </script>
+      // Example API call function
+      function callMyAPI() {
+        fetch('https://api.example.com/data')
+          .then(response => response.json())
+          .then(data => {
+            console.log(data);
+            // Process and display data
+            // Updating the 'calendarData' div with received data
+            document.getElementById('calendarData').innerHTML = JSON.stringify(data);
+          })
+          .catch(error => console.error('Error fetching data:', error));
+      }
+
+      // Event listener for the refresh button
+      var refreshButton = document.getElementById("refreshButton");
+      refreshButton.addEventListener("click", function() {
+          callMyAPI(); // Make the API call
+          refreshCalendar(); // Call the refreshCalendar function
+      });
+  });
+</script>
 </body>
 </html>
