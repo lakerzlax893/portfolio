@@ -88,4 +88,22 @@ function addMessageToThread(threadId) {
             console.error('Error adding message to thread:', error);
         }
     });
+
+// Function to interact with the server-side endpoint which handles OpenAI API
+function interactWithAssistant() {
+  fetch('/create-assistant', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    // Send any necessary data to your server
+    body: JSON.stringify({ userQuery: "I need to solve the equation `3x + 11 = 14`. Can you help me?" })
+  })
+  .then(response => response.json())
+  .then(data => {
+    console.log(data);
+    // Process the server response
+  })
+  .catch(error => console.error('Error:', error));
+}
 }
