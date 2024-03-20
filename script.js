@@ -107,3 +107,17 @@ function interactWithAssistant() {
   .catch(error => console.error('Error:', error));
 }
 }
+
+function submitQuery() {
+    const input = document.getElementById('userInput').value;
+    fetch('https://your-azure-function-url', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ query: input }),
+    })
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(error => console.error('Error:', error));
+}
