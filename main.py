@@ -18,12 +18,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-client = AsyncOpenAI(
-    api_key="<YOUR-API-KEY-HERE>",
-)
-assistant_id = "<YOUR-ASSISTANT-ID-HERE>"
-run_finished_states = ["completed", "failed", "cancelled", "expired", "requires_action"]
+import os
 
+client = AsyncOpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+)
+assistant_id = os.getenv("ASSISTANT_ID")
 
 class RunStatus(BaseModel):
     run_id: str
