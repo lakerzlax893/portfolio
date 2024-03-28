@@ -21,7 +21,7 @@ app.add_middleware(
 import os
 
 client = AsyncOpenAI(
-    api_key=os.getenv("OPENAI_API_KEY"),
+    api_key=os.getenv("OPENAI_SECRET_KEY"),
 )
 assistant_id = os.getenv("ASSISTANT_ID")
 
